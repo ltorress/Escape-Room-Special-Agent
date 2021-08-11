@@ -1,6 +1,5 @@
 ## Welcome to GitHub Pages
 
-https://replit.com/@ltorress/Escape-Room-Special-Agent?v=1
 
 You can use the [editor on GitHub](https://github.com/ltorress/escaperoom1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -10,12 +9,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<iframe src="https://replit.com/@ltorress"></iframe>3
 
 - Bulleted
 - List
