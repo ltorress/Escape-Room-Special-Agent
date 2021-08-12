@@ -8,8 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-<iframe src="https://replit.com/@ltorress/Escape-Room-Special-Agent" name="EscapeRoom" scrolling="Yes" height="500px" width="100%" style="border: none;"></iframe>
+?embed=true
+<iframe src="https://replit.com/@ltorress/Escape-Room-Special-Agent" name="EscapeRoom" scrolling="Yes" ?embed=true height="500px" width="100%" style="border: none;"></iframe>
 
 - Bulleted
 - List
